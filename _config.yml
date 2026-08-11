@@ -9,10 +9,10 @@ last_name: He
 contact_note: >
   The best way to reach me is via email at zhuqianhe471@gmail.com.
 description: >
-  Economist | Research Assistant at BIMSA | Gender & Labor Economics
+  Ph.D. in Economics | RA at BIMSA | Gender & Labor Economics
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
-keywords: gender economics, labor economics, development economics, social norms, BIMSA
+keywords: gender economics, labor economics, social norms, development economics
 lang: en
 icon: 🎓
 
@@ -132,9 +132,9 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog / Writing
 # -----------------------------------------------------------------------------
 
-blog_name: Writing # 页面上显示的博客/随笔板块名字
+blog_name: Writing
 blog_description: Reflections on Economics, Social Norms, and Methodology
-permalink: /writing/:year/:title/ # 建议改为 /writing/ 开头的路径
+permalink: /writing/:year/:title/
 
 # -----------------------------------------------------------------------------
 # Newsletter
