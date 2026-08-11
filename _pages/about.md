@@ -1,34 +1,52 @@
 ---
 layout: about
-title: about
+title: home
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Economist | Research Assistant at BIMSA | Gender & Labor Economics
 
 profile:
   align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image: profile_photo.jpg
+  image_circular: false # 改为 true 可将头像裁切为圆形
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Beijing Institute of Mathematical Sciences and Applications (BIMSA)</p>
+    <p>Beijing, China</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+selected_papers: false # 暂无高亮精选论文时设为 false
+social: true # 显示社交网络图标与邮箱
 
 announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  enabled: true # 开启最新动态模块（展示 SheShapes AI 等动态）
+  scrollable: true
+  limit: 5
 
 latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  enabled: true # 自动展示 Writing 模块最新文章
+  scrollable: true
+  limit: 3
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a **Ph.D. in Economics** and currently a Research Assistant at the **Beijing Institute of Mathematical Sciences and Applications (BIMSA)**[cite: 1]. I am preparing for my next academic step—pursuing a second Ph.D. in Economics in the U.S. to deepen my empirical research in applied microeconomics[cite: 1].
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My research lies at the intersection of **Gender and Labor Economics**, **Economics of Innovation**, and **Development Economics**[cite: 1]. Grounded in a theoretical framework that integrates **New Institutional Economics**, **Identity Economics**, and **Narrative Economics**, I seek to analyze **women's existential challenges and development choices across different life stages** through an economic lens.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+> *"How do institutional frictions and social norms distort the allocation of human capital and its value returns?"*
+
+As a resilient researcher, I am dedicated to embracing my own authentic life rhythm—uncovering how structural frictions shape human choices while navigating my own academic journey with purpose and persistence.
+
+---
+
+### Core Conceptual Keywords
+
+I organize my observational and empirical inquiry around three central themes:
+
+* 🔍 **Missing:** Uncovering uncredited contributions, systemic topic filtering, and the invisibility of female value in knowledge production and the economy.
+* ⚖️ **Misallocation:** Quantifying structural efficiency losses when social norms, biases, and institutional barriers distort the allocation of talent and academic credit[cite: 1].
+* 📜 **Social Norms:** Investigating how informal rules, internalized identities, and cultural narratives constrain individual choices, household bargaining, and market outcomes[cite: 1].
+
+---
+
+### Contact
+
+* 📧 **Email:** [zhuqianhe471@gmail.com](mailto:zhuqianhe471@gmail.com)[cite: 1]
+* 🏛️ **Affiliation:** Beijing Institute of Mathematical Sciences and Applications (BIMSA)[cite: 1]
