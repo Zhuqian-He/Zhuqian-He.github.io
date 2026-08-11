@@ -1,6 +1,6 @@
 ---
 layout: about
-title: home
+title: Home
 permalink: /
 subtitle: Ph.D. in Economics | RA at BIMSA | Gender & Labor Economics
 
