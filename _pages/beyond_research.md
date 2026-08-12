@@ -3,7 +3,7 @@ layout: page
 title: Beyond Research
 permalink: /beyond_research/
 nav: true
-nav_order: 5
+nav_order: 4
 ---
 
 > **"Life outside the office keeps my intuition fresh and my energy high. Here is a glimpse into my community initiatives, travel footprints, and creative passions."**
