@@ -13,7 +13,7 @@ Here I share short notes, methodological reflections, and informal writing on ec
 ---
 
 #### 1. Is Economics More Like Physics or Chemistry? Methodological Reflections on the Semi-Empirical Paradigm
-* **Original Title:** 【学术日记】05 | 经济学更像物理还是化学？
+* **Original Title:** 经济学更像物理还是化学？
 * **Link:** [Read Original Article (Chinese)](https://mp.weixin.qq.com/s/zGIv0tcMAZVXsRZ37kc0Gg)  
 * **Themes:** Epistemology, Physics Envy, Semi-Empirical Paradigm, Market Design
 * **Core Intuition:**  
