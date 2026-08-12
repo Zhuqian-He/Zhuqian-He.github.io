@@ -32,16 +32,14 @@ I love exploring different cultures, landscapes, and social contexts. To date, m
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
 
-<!-- 彻底清除 Bootstrap 对地图图片切片的干扰 -->
 <style>
   #travel-map img {
     max-width: none !important;
     max-height: none !important;
-    background: transparent !important;
+    display: inline !important;
   }
-  .leaflet-tile {
-    max-width: none !important;
-    max-height: none !important;
+  .leaflet-tile-container img {
+    visibility: visible !important;
   }
 </style>
 
@@ -55,20 +53,14 @@ I love exploring different cultures, landscapes, and social contexts. To date, m
       maxZoom: 18
     }).setView([33.0, 108.0], 4);
 
-    // 改用 OpenStreetMap 官方高清底图，彻底解决 CARTO 灰色切片不加载问题
-    L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
-      attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
-      maxZoom: 19
+    L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/Canvas/World_Light_Gray_Base/MapServer/tile/{z}/{y}/{x}', {
+      attribution: 'Tiles &copy; Esri &mdash; Esri, DeLorme, NAVTEQ',
+      maxZoom: 16
     }).addTo(map);
 
-    // 延迟与窗口改变时强制重新计算尺寸，确保画面100%渲染不留白
     setTimeout(function() {
       map.invalidateSize();
-    }, 500);
-
-    window.addEventListener('resize', function() {
-      map.invalidateSize();
-    });
+    }, 400);
 
     var internationalSpots = [
       { name: "Japan (日本)", coords: [35.6762, 139.6503] },
