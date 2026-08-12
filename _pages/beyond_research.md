@@ -3,7 +3,7 @@ layout: page
 title: Beyond Research
 permalink: /beyond_research/
 nav: true
-nav_order: 4
+nav_order: 5
 ---
 
 > **"Life outside the office keeps my intuition fresh and my energy high. Here is a glimpse into my community initiatives, travel footprints, and creative passions."**
@@ -29,25 +29,21 @@ I love exploring different cultures, landscapes, and social contexts. To date, m
 * **🌏 International:** Japan, Malaysia, South Korea, Thailand
 * **🇨🇳 Domestic Footprints:** Beijing, Chongqing, Fujian, Guangdong, Guangxi, Guizhou, Hainan, Hebei, Heilongjiang, Hong Kong SAR, Hubei, Hunan, Inner Mongolia, Jiangxi, Jilin, Macao SAR, Qinghai, Shaanxi, Shandong, Shanghai, Tianjin, Xinjiang, Yunnan, Zhejiang
 
-<!-- 动态地图依赖库 -->
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
 
-<!-- 地图容器 -->
 <div id="travel-map" style="height: 420px; width: 100%; margin-top: 15px; margin-bottom: 25px; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); position: relative; z-index: 1;"></div>
 
+{% raw %}
 <script>
   document.addEventListener("DOMContentLoaded", function() {
-    // 初始化地图视野 (以中国及东亚为中心)
     var map = L.map('travel-map').setView([33.0, 108.0], 4);
 
-    // 加载极简优雅的浅色底图
     L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
       attribution: '&copy; OpenStreetMap &copy; CARTO',
       maxZoom: 18
     }).addTo(map);
 
-    // 1. 国际足迹 (4个国家 - 蓝色标记点)
     var internationalSpots = [
       { name: "Japan (日本)", coords: [35.6762, 139.6503] },
       { name: "Malaysia (马来西亚)", coords: [3.1390, 101.6869] },
@@ -60,7 +56,6 @@ I love exploring different cultures, landscapes, and social contexts. To date, m
         .bindPopup('<b>🌏 ' + spot.name + '</b>');
     });
 
-    // 2. 国内足迹 (全量 24 个省/直辖市/特别行政区 - 紫色圆点标记)
     var domesticSpots = [
       { name: "Beijing (北京)", coords: [39.9042, 116.4074] },
       { name: "Tianjin (天津)", coords: [39.0842, 117.2009] },
@@ -98,6 +93,7 @@ I love exploring different cultures, landscapes, and social contexts. To date, m
     });
   });
 </script>
+{% endraw %}
 
 ---
 
