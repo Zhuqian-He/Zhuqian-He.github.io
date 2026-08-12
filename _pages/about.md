@@ -12,7 +12,7 @@ profile:
     <p>A resilient girl, always staying true to her unique life rhythm.</p>
 
 selected_papers: false 
-social: true 
+social: false
 
 announcements:
   enabled: false
