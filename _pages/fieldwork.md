@@ -6,6 +6,15 @@ nav: true
 nav_order: 2
 ---
 
+<!-- 强制统一所有照片为 4:3 比例居中裁剪 -->
+<style>
+  .field-gallery img {
+    aspect-ratio: 4 / 3 !important;
+    object-fit: cover !important;
+    width: 100% !important;
+  }
+</style>
+
 ### Grounding Empirical Intuition in the Field
 
 > **"My fieldwork across rural China provides a first-hand, micro-level perspective on how institutional barriers and structural frictions constrain individual choices and behaviours. Direct engagement with households and local officials sharpens my empirical intuition—helping me identify *missing* market participation, trace talent *misallocation*, and unpack the informal *social norms* that govern economic behavior."**
@@ -25,15 +34,15 @@ nav_order: 2
   * Led the data cleaning and standardization pipelines for the digital and smart village modules, resolving measurement discrepancies across household-level indicators.
 
 <!-- Photo Gallery for Project 1 -->
-<div class="row mt-3">
-    <div class="col-sm-3 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/fieldwork/project1_1.jpg" class="img-fluid rounded z-depth-1" style="aspect-ratio: 4/3; object-fit: cover; width: 100%;" %}
+<div class="row mt-3 field-gallery">
+    <div class="col-sm-4 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/fieldwork/project1_1.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm-3 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/fieldwork/project1_2.jpg" class="img-fluid rounded z-depth-1" style="aspect-ratio: 4/3; object-fit: cover; width: 100%;" %}
+    <div class="col-sm-4 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/fieldwork/project1_2.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm-3 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/fieldwork/project1_3.jpg" class="img-fluid rounded z-depth-1" style="aspect-ratio: 4/3; object-fit: cover; width: 100%;" %}
+    <div class="col-sm-4 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/fieldwork/project1_3.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
@@ -51,15 +60,15 @@ nav_order: 2
   * **Formal Field Operations & Team Leadership:** Served as Team Leader in Gucheng County—overseeing enumerator training and survey execution, coordinating multi-tier field logistics with local officials, and personally conducting in-depth, one-on-one village-level surveys with village leaders.
 
 <!-- Photo Gallery for Project 2 -->
-<div class="row mt-3">
-    <div class="col-sm-3 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/fieldwork/project2_1.jpg" class="img-fluid rounded z-depth-1" style="aspect-ratio: 4/3; object-fit: cover; width: 100%;" %}
+<div class="row mt-3 field-gallery">
+    <div class="col-sm-4 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/fieldwork/project2_1.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm-3 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/fieldwork/project2_2.jpg" class="img-fluid rounded z-depth-1" style="aspect-ratio: 4/3; object-fit: cover; width: 100%;" %}
+    <div class="col-sm-4 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/fieldwork/project2_2.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm-3 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/fieldwork/project2_4.jpg" class="img-fluid rounded z-depth-1" style="aspect-ratio: 4/3; object-fit: cover; width: 100%;" %}
+    <div class="col-sm-4 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/fieldwork/project2_4.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
@@ -76,14 +85,14 @@ nav_order: 2
   * Ensured high response rates and data accuracy by adhering strictly to survey protocols and conducting real-time cross-verification during field visits.
 
 <!-- Photo Gallery for Project 3 -->
-<div class="row mt-3">
-    <div class="col-sm-3 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/fieldwork/project3_1.jpg" class="img-fluid rounded z-depth-1" style="aspect-ratio: 4/3; object-fit: cover; width: 100%;" %}
+<div class="row mt-3 field-gallery">
+    <div class="col-sm-4 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/fieldwork/project3_1.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm-3 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/fieldwork/project3_2.jpg" class="img-fluid rounded z-depth-1" style="aspect-ratio: 4/3; object-fit: cover; width: 100%;" %}
+    <div class="col-sm-4 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/fieldwork/project3_2.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm-3 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/fieldwork/project3_3.jpg" class="img-fluid rounded z-depth-1" style="aspect-ratio: 4/3; object-fit: cover; width: 100%;" %}
+    <div class="col-sm-4 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/fieldwork/project3_3.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
