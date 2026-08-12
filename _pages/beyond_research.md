@@ -32,17 +32,31 @@ I love exploring different cultures, landscapes, and social contexts. To date, m
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
 
+<style>
+  .leaflet-container img {
+    max-width: none !important;
+    max-height: none !important;
+  }
+</style>
+
 <div id="travel-map" style="height: 420px; width: 100%; margin-top: 15px; margin-bottom: 25px; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); position: relative; z-index: 1;"></div>
 
 {% raw %}
 <script>
   document.addEventListener("DOMContentLoaded", function() {
-    var map = L.map('travel-map').setView([33.0, 108.0], 4);
+    var map = L.map('travel-map', {
+      minZoom: 3
+    }).setView([33.0, 108.0], 4);
 
     L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
       attribution: '&copy; OpenStreetMap &copy; CARTO',
-      maxZoom: 18
+      maxZoom: 18,
+      noWrap: true
     }).addTo(map);
+
+    setTimeout(function() {
+      map.invalidateSize();
+    }, 300);
 
     var internationalSpots = [
       { name: "Japan (日本)", coords: [35.6762, 139.6503] },
