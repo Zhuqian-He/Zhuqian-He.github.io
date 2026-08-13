@@ -6,9 +6,7 @@ nav: true
 nav_order: 3
 ---
 
-### Grounding Empirical Intuition in the Field
-
-> **"My fieldwork across rural China provides a first-hand, micro-level perspective on how institutional barriers and structural frictions constrain individual choices and behaviours. Direct engagement with households and local officials sharpens my empirical intuition—helping me identify *missing* market participation, trace talent *misallocation*, and unpack the informal *social norms* that govern economic behavior."**
+> *"Fieldwork across rural China sharpens my empirical intuition. Direct engagement with households and local officials helps me identify missing market participation, trace talent misallocation, and unpack the informal social norms that govern economic behavior."*
 
 ---
 
