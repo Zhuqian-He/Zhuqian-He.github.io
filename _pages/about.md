@@ -29,7 +29,7 @@ I am a **Ph.D. in Economics** and currently a Research Assistant at the **Beijin
 
 My research lies at the intersection of **Gender and Labor Economics**, **Economics of Innovation**, and **Development Economics**. Grounded in empirical intuition sharpened through extensive [Field Research](/fieldwork/) across rural China, I examine how institutional frictions and informal social norms distort the allocation of human capital and its value returns.
 
-To dive deeper into my overarching research questions and theoretical framework, please visit my [Research Agenda](/research/). You can also view my selected [Publications](/publications/), explore my public notes on [Writing](/writing/), or get a glimpse into my life [Beyond Research](/beyond_research/).
+To dive deeper into my overarching research questions and theoretical framework, please visit my [Research Agenda](/research/). You can also view my selected [Publications](/publications/), explore my [Research Notes](/research_notes/), or get a glimpse into my [Life](/life/).
 
 ---
 
