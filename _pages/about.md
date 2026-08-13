@@ -27,15 +27,12 @@ latest_posts:
 
 I am a **Ph.D. in Economics** and currently a Research Assistant at the **Beijing Institute of Mathematical Sciences and Applications (BIMSA)**. I am preparing for my next academic step—pursuing a second Ph.D. to deepen my research in gender and labor.
 
-My research lies at the intersection of **Gender and Labor Economics**, **Economics of Innovation**, and **Development Economics**. Grounded in empirical intuition sharpened through extensive [field research](/fieldwork/), I examine how institutional frictions and informal social norms distort the allocation of human capital and its value returns.
+My research lies at the intersection of **Gender and Labor Economics**, **Economics of Innovation**, and **Development Economics**. Grounded in empirical intuition sharpened through extensive [field research](/fieldwork/) across rural China, I examine how institutional frictions and informal social norms distort the allocation of human capital and its value returns.
 
-To dive deeper into my overarching research questions, theoretical framework, and core empirical dimensions, please visit my [Research Agenda](/research/). You can also explore my public notes on [Writing](/writing/) or get a glimpse into my life [Beyond Research](/beyond_research/).
-
-> *"How do institutional frictions and social norms distort the allocation of human capital and its value returns?"*
+To dive deeper into my overarching research questions and theoretical framework, please visit my [Research Agenda](/research/). You can also view my selected [Publications](/publications/), explore my public notes on [Writing](/writing/), or get a glimpse into my life [Beyond Research](/beyond_research/).
 
 ---
 
 ### Contact
 
 * 📧 **Email:** [zhuqianhe471@gmail.com](mailto:zhuqianhe471@gmail.com)
-* 🏛️ **Affiliation:** Beijing Institute of Mathematical Sciences and Applications (BIMSA)
