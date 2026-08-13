@@ -6,17 +6,15 @@ nav: true
 nav_order: 1
 ---
 
-My research lies at the intersection of **Gender and Labor Economics**, **Economics of Innovation**, and **Development Economics**. Through an economic lens, I analyze women's existential challenges and development choices across different life stages, centering my inquiry on a foundational question:
+> *"How do institutional frictions and social norms distort the allocation of human capital and its value returns?"*
 
-### Overarching Research Question
-
-> **"How do institutional frictions and social norms distort the allocation of human capital and its value returns?"**
+Through an economic lens, I analyze women’s existential challenges and development choices across different life stages.
 
 To address this question, my work builds upon a theoretical triad combining **New Institutional Economics**, **Identity Economics**, and **Narrative Economics**. I examine how formal institutional frictions and informal social norms—interwoven with social identities and cultural narratives—generate structural barriers in labor markets, organizational hierarchies, and individual decision-making.
 
 ---
 
-### Core Empirical Dimensions
+### Core Dimensions
 
 I organize my observational and empirical inquiry across three central dimensions:
 
