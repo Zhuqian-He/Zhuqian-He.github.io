@@ -118,7 +118,7 @@ I love exploring different cultures, landscapes, and social contexts. To date, m
 ### 🎸 Personal Interests & Vibe
 
 #### 🎵 Rhythm, Beats & Sound
-* **Music Enthusiast:** Heavy listener of Rock and Rap; thriving in the raw energy of Livehouses and outdoor music festivals.
+* **Music Enthusiast:** Heavy listener of Chinese rock and rap; thriving in the raw energy of livehouses and outdoor music festivals.
 * **Active Creator:** Play drums, dance jazz, and occasionally try my hand at rapping.
 
 #### 🎿 Outdoor & Sports
