@@ -3,7 +3,7 @@ layout: page
 title: Research Notes
 permalink: /research_notes/
 nav: true
-nav_order: 4
+nav_order: 5
 ---
 
 > *"Here I share short notes, empirical workflows, econometric insights, and informal writing on economic theory, data practices, and real-world social dynamics."*
