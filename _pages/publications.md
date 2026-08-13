@@ -12,7 +12,7 @@ nav_order: 2
 
 ### Selected Journal Articles
 
-1. Yangjie Wang, **Zhuqian He***, Li Chen, Jiahao Zhu. (2025). "[The role of information and communication technology in health: Evidence from China](https://www.tandfonline.com/toc/titd20/current)." *Information Technology for Development*, 1–22. 
+1. Yangjie Wang, **Zhuqian He***, Li Chen, Jiahao Zhu. (2025). "[The role of information and communication technology in health: Evidence from China](https://aisel.aisnet.org/itd/vol32/iss1/21/)." *Information Technology for Development*, 1–22. 
 
 2. Yangjie Wang, **Zhuqian He**. (2024). "[Online or offline: High temperature, sales channel adjustment, and agricultural profit](https://doi.org/10.1016/j.ijpe.2024.109153)." *International Journal of Production Economics*, 269, 109153. 
 
