@@ -3,7 +3,7 @@ layout: page
 title: Life
 permalink: /life/
 nav: true
-nav_order: 5
+nav_order: 6
 ---
 
 > *"Life outside the office keeps my intuition fresh and my energy high. Here is a glimpse into my community initiatives, travel footprints, and creative passions."*
