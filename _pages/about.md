@@ -9,7 +9,7 @@ profile:
   image: profile_photo.jpg
   image_circular: false 
   more_info: >
-    <p>A resilient girl, always staying true to her unique life rhythm.</p>
+    <p>A resilient girl, always moving through life at her own pace</p>
 
 selected_papers: false 
 social: false
@@ -27,21 +27,11 @@ latest_posts:
 
 I am a **Ph.D. in Economics** and currently a Research Assistant at the **Beijing Institute of Mathematical Sciences and Applications (BIMSA)**. I am preparing for my next academic step—pursuing a second Ph.D. to deepen my research in gender and labor.
 
-My research lies at the intersection of **Gender and Labor Economics**, **Economics of Innovation**, and **Development Economics**. Grounded in a theoretical framework that integrates **New Institutional Economics**, **Identity Economics**, and **Narrative Economics**, I seek to analyze **women's existential challenges and development choices across different life stages** through an economic lens.
+My research lies at the intersection of **Gender and Labor Economics**, **Economics of Innovation**, and **Development Economics**. Grounded in empirical intuition sharpened through extensive [field research](/fieldwork/), I examine how institutional frictions and informal social norms distort the allocation of human capital and its value returns.
+
+To dive deeper into my overarching research questions, theoretical framework, and core empirical dimensions, please visit my [Research Agenda](/research/). You can also explore my public notes on [Writing](/writing/) or get a glimpse into my life [Beyond Research](/beyond_research/).
 
 > *"How do institutional frictions and social norms distort the allocation of human capital and its value returns?"*
-
----
-
-### Core Conceptual Keywords
-
-I organize my observational and empirical inquiry around three central themes:
-
-* 🔍 **Missing:** Tracing how institutional shifts, market barriers, and caregiving burdens drive female workforce exit, rendering educated talent unobserved in formal markets.
-
-* ⚖️ **Misallocation:** Evaluating how task assignment biases, credit expropriation, and cross-market penalties distort talent sorting, effort incentives, and value returns.
-
-* 📜 **Social Norms:** Investigating how informal rules, internalized identities, and cultural narratives constrain individual choices, household bargaining, and market outcomes.
 
 ---
 
