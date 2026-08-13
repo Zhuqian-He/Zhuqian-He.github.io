@@ -3,7 +3,7 @@ layout: page
 title: Field Research
 permalink: /fieldwork/
 nav: true
-nav_order: 2
+nav_order: 3
 ---
 
 ### Grounding Empirical Intuition in the Field
