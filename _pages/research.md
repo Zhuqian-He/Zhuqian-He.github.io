@@ -6,6 +6,8 @@ nav: true
 nav_order: 1
 ---
 
+My research lies at the intersection of **Gender and Labor Economics**, **Economics of Innovation**, and **Development Economics**. Through an economic lens, I analyze women's existential challenges and development choices across different life stages, centering my inquiry on a foundational question:
+
 ### Overarching Research Question
 
 > **"How do institutional frictions and social norms distort the allocation of human capital and its value returns?"**
