@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Beyond Research
-permalink: /beyond_research/
+title: Life
+permalink: /life/
 nav: true
 nav_order: 5
 ---
