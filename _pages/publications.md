@@ -10,7 +10,7 @@ nav_order: 3
 
 ---
 
-### Selected Journal Articles
+### Selected Articles in English
 
 1. Yangjie Wang, **Zhuqian He***, Li Chen, Jiahao Zhu. (2025). "[The role of information and communication technology in health: Evidence from China](https://aisel.aisnet.org/itd/vol32/iss1/21/)." *Information Technology for Development*, 1–22. 
 
