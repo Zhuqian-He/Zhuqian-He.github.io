@@ -1,7 +1,7 @@
 ---
-layout: cv
-permalink: /cv/
-title: CV
+layout: page
+permalink: /cv_origin/
+title: CV Backup
 nav: false
 nav_order: 5
 cv_pdf: /assets/pdf/example_pdf.pdf # you can also use external links here
