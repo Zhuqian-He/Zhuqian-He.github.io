@@ -3,7 +3,7 @@ layout: page
 title: Research Agenda
 permalink: /research/
 nav: true
-nav_order: 1
+nav_order: 2
 ---
 
 > *"How do institutional frictions and social norms distort the allocation of human capital and its value returns?"*
