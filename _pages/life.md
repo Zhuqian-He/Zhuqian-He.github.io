@@ -119,13 +119,13 @@ I love exploring different cultures, landscapes, and social contexts. To date, m
 
 #### 🎵 Rhythm, Beats & Sound
 * **Music Enthusiast:** Heavy listener of Rock and Rap; thriving in the raw energy of Livehouses and outdoor music festivals.
-* **Active Creator:** Play a bit of drums, dance Jazz, and occasionally try my hand at rapping.
+* **Active Creator:** Play drums, dance jazz, and occasionally try my hand at rapping.
 
 #### 🎿 Outdoor & Sports
-* **Active Lifestyle:** Passionate about carving down snowy mountains (Skiing), mountain Hiking, and playing Badminton to recharge and stay energized.
+* **Active Lifestyle:** Passionate about skiing, mountain hiking, and badminton to recharge and stay energized.
 
 #### 📷 Visuals & Aesthetics
-* **Art & Photography:** Avid visitor of art exhibitions; enthusiastic photography lover capturing everyday moments, architectural geometries, and structural details during field trips and travels.
+* **Art & Photography:** Avid visitor of art exhibitions; enthusiastic photographer capturing everyday moments and natural landscapes during field trips and travels.
 
 <!-- Vibe / Interests Photo Gallery -->
 <div class="row mt-3">
