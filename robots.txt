@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://zhuqian-he.github.io/sitemap.xml
+Sitemap: https://zhuqianhe.org/sitemap.xml
