@@ -12,7 +12,7 @@ profile:
     <p><em>A resilient girl, always moving through life at her own pace.</em></p>
 
 selected_papers: false 
-social: false
+social: true
 
 announcements:
   enabled: false
