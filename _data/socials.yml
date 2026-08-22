@@ -9,7 +9,7 @@ linkedin_username: zhuqian-he-164966347
 
 # Substack
 substack:
-  logo: fa-brands fa-substack
+  logo: https://cdn.simpleicons.org/substack/black
   title: Substack
   url: https://substack.com/@zhuqian
 
