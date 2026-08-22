@@ -7,9 +7,9 @@ github_username: Zhuqian-He
 # LinkedIn
 linkedin_username: zhuqian-he-164966347
 
-# Substack (使用 custom_social 才能被插件识别)
+# Substack 
 custom_social:
-  logo: https://cdn.simpleicons.org/substack/000000
+  logo: https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/substack.svg
   title: Substack
   url: https://zhuqian.substack.com
 
