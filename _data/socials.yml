@@ -1,14 +1,17 @@
-# 邮箱联系方式
+# email
 email: zhuqianhe471@gmail.com
 
-# LinkedIn 领英
+# GitHub
+github_username: Zhuqian-He
+
+# LinkedIn
 linkedin_username: zhuqian-he-164966347
 
-# Instagram
-instagram_id: zhuqian_he
-
-# Substack 学术写作与手记
+# Substack
 substack:
   logo: fa-brands fa-substack
   title: Substack
   url: https://substack.com/@zhuqian
+
+# Instagram 
+instagram_id: zhuqian_he
