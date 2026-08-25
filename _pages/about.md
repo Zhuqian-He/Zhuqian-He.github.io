@@ -36,3 +36,38 @@ To dive deeper into my overarching research questions and theoretical framework,
 ### Contact
 
 * 📧 **Email:** [zhuqianhe471@gmail.com](mailto:zhuqianhe471@gmail.com)
+
+<style>
+  /* 1. 整体缩小社交图标尺寸 */
+  .social .contact-icons {
+    font-size: 1.4rem !important;
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center !important;
+    gap: 1.2rem !important;
+  }
+
+  /* 2. 统一 flex 居中容器 */
+  .social .contact-icons a {
+    display: inline-flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+    color: inherit !important;
+    opacity: 0.85;
+    transition: opacity 0.2s ease, transform 0.2s ease;
+  }
+
+  .social .contact-icons a:hover {
+    opacity: 1;
+    transform: translateY(-2px);
+  }
+
+  /* 3. 强制 Substack 图片对齐与等高 */
+  .social .contact-icons img {
+    height: 1.25rem !important;
+    width: auto !important;
+    display: inline-block !important;
+    vertical-align: middle !important;
+  }
+</style>
+
