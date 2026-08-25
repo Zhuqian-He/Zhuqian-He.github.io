@@ -36,8 +36,57 @@ I organize my observational and empirical inquiry across three central dimension
 
 #### Ongoing Projects
 
-* **Gender and Academic Credit Allocation** `[Work in Progress]` *(Jan. 2026 – Present)*  
-  Examining asymmetric credit attribution in mixed-gender co-authored papers—specifically testing whether the scientific community systematically over-attributes research contributions to male co-authors while under-crediting female co-authors in team production.
+#### 1. Gender and Academic Credit Allocation
+*Status: Work in Progress (Jan. 2026 – Present)*
 
-* **Whose Economics? Gender Balance, Perspective Complementarity, and Knowledge Production in Top-Tier Economics** `[Research Proposal]`  
-  Examining how gender representation and perspective complementarity among authors shape topic selection, research methodologies, and paradigm shifts in top-tier economics journals.
+* **Overview:**  
+  This project investigates whether female scientists systematically receive lower academic credit than male peers in scientific production.
+
+* **Preliminary Empirical Findings:**
+  * **Persistent Disparity Across Team Sizes (Figures 1 & 2):** Across all author team sizes (ranging from 2 to 20 authors), female authors consistently receive lower credit scores than male authors in unconditional between-paper comparisons (Figure 1). This credit penalty remains systematic and pervasive even when restricting the comparison to co-authors within the exact same paper (Figure 2).
+  * **Seven Decades of Historical Inertia (Figures 3 & 4):** Analyzing 5-year cohorts from 1950 to 2024 reveals that the gender credit disparity is not a transitory cohort effect. Female authors face an enduring credit deficit across seven decades in both between-paper distributions (Figure 3) and within-paper co-author allocations (Figure 4).
+  * **Econometric Robustness Across Multi-Way Fixed Effects (Figure 5):** The credit penalty against female authors remains statistically significant and negative across all econometric specifications—from baseline bivariate OLS ($\Delta = -0.025$, $p < 0.01$) to models sequentially adding paper-level controls, author career trajectories, year fixed effects, field fixed effects, and multi-way paper fixed effects ($\Delta = -0.0163$, $p < 0.001$).
+
+<details>
+<summary><strong>📊 Click to view Preliminary Empirical Figures (Figures 1–5)</strong></summary>
+
+<br>
+
+##### Dimension 1: Disparity Across Team Sizes (2–20 Authors)
+<p align="center">
+  <img src="/assets/img/research/Figure1.png" alt="Figure 1: Mean Credit Scores (Between Papers)" width="48%">
+  <img src="/assets/img/research/Figure2.png" alt="Figure 2: Within-Paper Mean Credit Scores" width="48%">
+  <br>
+  <em>Left (Figure 1): Between-paper mean credit scores by team size. Right (Figure 2): Within-paper mean credit scores by team size.</em>
+</p>
+
+##### Dimension 2: 70-Year Temporal Evolution (1950–2024)
+<p align="center">
+  <img src="/assets/img/research/Figure3.png" alt="Figure 3: Temporal Trends (Between Papers)" width="48%">
+  <img src="/assets/img/research/Figure4.png" alt="Figure 4: Within-Paper Temporal Trends" width="48%">
+  <br>
+  <em>Left (Figure 3): Between-paper credit trends across 5-year intervals. Right (Figure 4): Within-paper credit trends across 5-year intervals.</em>
+</p>
+
+##### Dimension 3: Econometric Robustness
+<p align="center">
+  <img src="/assets/img/research/Figure5.png" alt="Figure 5: Gender Difference in Credit Allocation Across Specifications" width="85%">
+  <br>
+  <em>Figure 5: Predicted credit score difference between women and men across sequential specifications (from bivariate OLS to multi-way Paper FE).</em>
+</p>
+
+</details>
+
+---
+
+#### 2. Whose Economics? Gender Composition, Perspective Differentiation, and Complementarity in Economic Knowledge Production
+*Status: Research Proposal*
+
+  Economic phenomena generate research questions, but they do not uniquely determine how those questions are understood. This paper examines whether economists situated differently by gender systematically frame comparable gender-related economic phenomena in different ways, and whether such differences become complementary when researchers collaborate. I develop a framework in which social and institutional experiences generate heterogeneous experiential priors that may influence which economic mechanisms researchers regard as salient. Using gender-related articles published in the *Top Five* economics journals from 2000 to 2025, I first compare the analytical framing of closely comparable research questions across male and female authors, with particular attention to solo-authored work. I then construct authors' pre-collaboration perspective profiles and examine whether mixed-gender teams bring together more distant analytical perspectives and whether such ex ante heterogeneity is associated with greater conceptual recombination in the resulting paper. By distinguishing demographic composition from measured perspective heterogeneity, the paper extends the economics of knowledge production from differentiated technical expertise to heterogeneity in the analytical perspectives researchers bring to scientific inquiry.
+
+---
+
+#### 3. Bridging Recognition? Women-Focused Scientific Awards and the Allocation of Scientific Prestige
+*Status: Research Proposal*
+
+  Women-focused scientific awards are designed to recognize female scientists who may be underrepresented in mainstream prestige systems, yet their downstream effects remain unclear. This paper asks whether receiving a major women-focused scientific award increases the probability or accelerates the timing of subsequent recognition by higher-prestige, gender-neutral awards. I develop a model in which scientific quality is imperfectly observed and evaluative attention is costly, so targeted awards may affect later recognition through certification and visibility. Empirically, I use risk-set matching to compare recipients with observationally similar not-yet-treated women scientists, balancing on pre-award scientific and career trajectories. I then use official award citations to examine whether subsequent mainstream recognition concerns pre-existing scientific contributions or later output, distinguishing recognition-based from broader career and productivity pathways.
