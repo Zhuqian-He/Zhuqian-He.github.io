@@ -55,6 +55,13 @@ nav_order: 5
 * **Core Intuition:** 
   A brief thought exercise applying microeconomic concepts to personal observations on relationship dynamics. I reflect on how problem-solving habits, opportunity costs, and gendered social expectations shape how individuals navigate personal choices and emotional investments.
 
+#### 6. From Tacit Knowledge to Epistemic Privilege: Deconstructing the "Default" in Public Knowledge
+* **Original Title:** 从隐性知识，看见叙事背后的认知特权：你所以为的“常识”并不是真的“常识”
+* **Link:** [Read Original Article (Chinese)](https://mp.weixin.qq.com/s/MOkIYOPBkc9G1f3lW0so7Q)
+* **Themes:** Tacit vs. Explicit Knowledge, Epistemic Privilege, Gendered Defaults, Knowledge Sampling, Pluralism, Philosophy of Science
+* **Core Intuition:** 
+  Drawing on Michael Polanyi’s distinction between tacit and explicit knowledge, I explore how narrative power institutionalizes cognitive privileges. I examine how dominant perspectives (e.g., male-centric narratives) become the unmarked, "universal default," transforming public knowledge into a systematically biased sample. True pluralism is not tokenistic balance, but expanding our empirical sampling of human experience to illuminate marginalized tacit knowledge and deconstruct unexamined biases in our collective understanding.
+
 ---
 
 > *Note: These articles were originally published in Chinese on my WeChat Official Account. Feel free to reach out via email if you would like to discuss any of these topics!*
