@@ -12,10 +12,12 @@ nav_order: 6
 
 ### 👭 Community & Impact
 
-#### She Shapes AI — Female Tech Community & Hackathon
-* **Role:** She Shapes AI Fellow *(Aug. 2026 – Present)*
+**She Shapes AI — Female Tech Community & Hackathon**
+* **Role:** She Shapes AI Fellow (Aug. 2026)
 * **Focus:** Transitioning from an AI user to an AI builder alongside an inspiring community of female peers.
-* **Project:** Collaborating with a multidisciplinary team to design and prototype an AI product demo, promoting female representation and empowerment in technology.
+* **Project:** **Her Constellation** — [[Live Demo](https://her-constellation.vercel.app/)] [[GitHub](https://github.com/Sunny17123/her-constellation)]
+  * Collaborated with a multidisciplinary team to design and prototype an interactive visualization platform spotlighting global women's stories across diverse eras and geographies.
+  * Illuminated historically marginalized female narratives and explored their trans-temporal resonance across domains such as education, science, labor, art, peace, and social justice.
 * **Event Recap:** [Read Icebreaking Event Highlights (Chinese)](https://mp.weixin.qq.com/s/OL5yBSqpUCZPnQ0NCSyaRQ)
 
 ---
