@@ -52,7 +52,7 @@ I organize my observational and empirical inquiry across three central dimension
 
 <br>
 
-##### Dimension 1: Disparity Across Team Sizes (2–20 Authors)
+**Disparity Across Team Sizes (2–20 Authors)**
 <p align="center">
   <img src="/assets/img/research/Figure1.png" alt="Figure 1: Mean Credit Scores (Between Papers)" width="48%">
   <img src="/assets/img/research/Figure2.png" alt="Figure 2: Within-Paper Mean Credit Scores" width="48%">
@@ -60,7 +60,7 @@ I organize my observational and empirical inquiry across three central dimension
   <em>Left (Figure 1): Between-paper mean credit scores by team size. Right (Figure 2): Within-paper mean credit scores by team size.</em>
 </p>
 
-##### Dimension 2: 70-Year Temporal Evolution (1950–2024)
+**70-Year Temporal Evolution (1950–2024)**
 <p align="center">
   <img src="/assets/img/research/Figure3.png" alt="Figure 3: Temporal Trends (Between Papers)" width="48%">
   <img src="/assets/img/research/Figure4.png" alt="Figure 4: Within-Paper Temporal Trends" width="48%">
@@ -68,7 +68,7 @@ I organize my observational and empirical inquiry across three central dimension
   <em>Left (Figure 3): Between-paper credit trends across 5-year intervals. Right (Figure 4): Within-paper credit trends across 5-year intervals.</em>
 </p>
 
-##### Dimension 3: Econometric Robustness
+**Econometric Analysis**
 <p align="center">
   <img src="/assets/img/research/Figure5.png" alt="Figure 5: Gender Difference in Credit Allocation Across Specifications" width="85%">
   <br>
