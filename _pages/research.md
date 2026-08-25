@@ -70,9 +70,9 @@ I organize my observational and empirical inquiry across three central dimension
 
 <p><strong>Econometric Analysis</strong></p>
 <p align="center">
-  <img src="/assets/img/research/Figure5.png" alt="Figure 5: Gender Difference in Credit Allocation Across Specifications" width="85%">
+  <img src="/assets/img/research/Figure5.png" alt="Figure 5: Gender differences in credit allocation" width="85%">
   <br>
-  <em>Figure 5: Predicted credit score difference between women and men across sequential specifications (from bivariate OLS to multi-way Paper FE).</em>
+  <em>Figure 5: Gender differences in credit allocation.</em>
 </p>
 
 </details>
