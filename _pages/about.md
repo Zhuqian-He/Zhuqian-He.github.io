@@ -38,20 +38,21 @@ To dive deeper into my overarching research questions and theoretical framework,
 * 📧 **Email:** [zhuqianhe471@gmail.com](mailto:zhuqianhe471@gmail.com)
 
 <style>
-  /* 1. 整体缩小社交图标尺寸 */
+  /* 1. 社交图标整体容器：调至 1.9rem（适中大气，不再偏小） */
   .social .contact-icons {
-    font-size: 1.4rem !important;
+    font-size: 1.9rem !important;
     display: flex !important;
     justify-content: center !important;
     align-items: center !important;
-    gap: 1.2rem !important;
+    gap: 1.5rem !important; /* 图标之间的精致间距 */
   }
 
-  /* 2. 统一 flex 居中容器 */
+  /* 2. 统一每个图标的 flex 居中容器 */
   .social .contact-icons a {
     display: inline-flex !important;
     align-items: center !important;
     justify-content: center !important;
+    line-height: 1 !important;
     color: inherit !important;
     opacity: 0.85;
     transition: opacity 0.2s ease, transform 0.2s ease;
@@ -59,15 +60,19 @@ To dive deeper into my overarching research questions and theoretical framework,
 
   .social .contact-icons a:hover {
     opacity: 1;
-    transform: translateY(-2px);
+    transform: translateY(-2px); /* 鼠标悬停微浮动 */
   }
 
-  /* 3. 强制 Substack 图片对齐与等高 */
-  .social .contact-icons img {
-    height: 1.25rem !important;
-    width: auto !important;
-    display: inline-block !important;
-    vertical-align: middle !important;
+  /* 3. 强制 Substack 图片与其它字体图标严格等高、居中对齐 */
+  .social .contact-icons img,
+  .social img {
+    width: 1.75rem !important;
+    height: 1.75rem !important;
+    max-width: 1.75rem !important;
+    max-height: 1.75rem !important;
+    object-fit: contain !important;
+    display: block !important;
+    margin: 0 !important;
   }
 </style>
 
