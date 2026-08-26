@@ -48,7 +48,7 @@ I organize my observational and empirical inquiry across three central dimension
   * **Econometric Robustness Across Multi-Way Fixed Effects (Figure 5):** The credit penalty against female authors remains statistically significant and negative across all econometric specifications—from baseline bivariate OLS ($\Delta = -0.025$, $p < 0.01$) to models sequentially adding paper-level controls, author career trajectories, year fixed effects, field fixed effects, and multi-way paper fixed effects ($\Delta = -0.0163$, $p < 0.001$).
 
 <details>
-<summary><strong>📊 Click to view Preliminary Empirical Figures (Figures 1–5)</strong></summary>
+<summary><strong>📊 Click to view Preliminary Empirical Results</strong></summary>
 
 <br>
 
