@@ -36,34 +36,3 @@ To dive deeper into my overarching research questions and theoretical framework,
 ### Contact
 
 * 📧 **Email:** [zhuqianhe471@gmail.com](mailto:zhuqianhe471@gmail.com)
-
-<style>
-  /* 1. 强制居中对齐容器 */
-  .social .contact-icons {
-    display: flex !important;
-    justify-content: center !important;
-    align-items: center !important;
-    gap: 1.5rem !important;
-  }
-
-  /* 2. 统一图标链接为弹性居中盒子 */
-  .social .contact-icons a {
-    display: inline-flex !important;
-    align-items: center !important;
-    justify-content: center !important;
-    line-height: 1 !important;
-  }
-
-  /* 3. 精确下移并对齐 Substack 图片 */
-  .social .contact-icons img {
-    height: 1em !important;
-    width: 1em !important;
-    max-height: 1em !important;
-    object-fit: contain !important;
-    display: inline-block !important;
-    vertical-align: middle !important;
-    transform: translateY(3px) !important; /* 关键：微调下移 3px，与两旁字体基准线完美重合 */
-    margin: 0 !important;
-  }
-</style>
-
