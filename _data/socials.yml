@@ -8,10 +8,11 @@ github_username: Zhuqian-He
 linkedin_username: zhuqian-he-164966347
 
 # Substack
-substack:
-  logo: fa-brands fa-substack
-  title: Substack
-  url: https://zhuqian.substack.com
+custom_social:
+  substack:
+    logo: fa-brands fa-substack
+    title: Substack
+    url: https://zhuqian.substack.com
 
 # Instagram
 instagram_id: zhuqian_he
