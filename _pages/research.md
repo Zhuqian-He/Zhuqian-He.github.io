@@ -57,7 +57,7 @@ I organize my observational and empirical inquiry across three central dimension
   <img src="/assets/img/research/Figure1.png" alt="Figure 1: Mean Credit Scores (Between Papers)" width="48%">
   <img src="/assets/img/research/Figure2.png" alt="Figure 2: Within-Paper Mean Credit Scores" width="48%">
   <br>
-  <em>Left (Figure 1): Between-paper mean credit scores by team size. Right (Figure 2): Within-paper mean credit scores by team size.</em>
+  <em>Left (Figure 1): Between-paper credit scores by team size. Right (Figure 2): Within-paper credit scores by team size.</em>
 </p>
 
 <p><strong>70-Year Temporal Evolution (1950–2024)</strong></p>
@@ -65,7 +65,7 @@ I organize my observational and empirical inquiry across three central dimension
   <img src="/assets/img/research/Figure3.png" alt="Figure 3: Temporal Trends (Between Papers)" width="48%">
   <img src="/assets/img/research/Figure4.png" alt="Figure 4: Within-Paper Temporal Trends" width="48%">
   <br>
-  <em>Left (Figure 3): Between-paper credit trends across 5-year intervals. Right (Figure 4): Within-paper credit trends across 5-year intervals.</em>
+  <em>Left (Figure 3): Between-paper credit scores across 5-year intervals. Right (Figure 4): Within-paper credit scores across 5-year intervals.</em>
 </p>
 
 <p><strong>Econometric Analysis</strong></p>
