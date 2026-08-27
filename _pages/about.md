@@ -53,6 +53,11 @@ To dive deeper into my overarching research questions and theoretical framework,
     <i class="fa-brands fa-linkedin"></i>
   </a>
 
+  <!-- X (Twitter) -->
+  <a href="https://x.com/Zhuqian_He" target="_blank" rel="noopener noreferrer" title="X (Twitter)" style="color: inherit; display: inline-flex; align-items: center;">
+    <i class="fa-brands fa-x-twitter"></i>
+  </a>
+
   <!-- Substack -->
   <a href="https://zhuqian.substack.com" target="_blank" rel="noopener noreferrer" title="Substack" style="color: inherit; display: inline-flex; align-items: center;">
     <svg role="img" viewBox="0 0 24 24" width="1.6rem" height="1.6rem" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
