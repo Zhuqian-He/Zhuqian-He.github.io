@@ -6,7 +6,7 @@ nav: true
 nav_order: 3
 ---
 
-> *"Prior to focusing on my current research interests in gender and labor economics, I built a strong empirical foundation through published research in applied microeconomics, agricultural economics, and corporate governance."*
+> *"My earlier research in applied microeconomics, agricultural economics, and corporate governance built the empirical foundation for my current interests in gender and labor economics."*
 
 ---
 
