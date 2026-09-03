@@ -4,7 +4,6 @@ title: Research Nexus
 permalink: /research_notes/
 nav: true
 nav_order: 5
-description: A working collection of scholars, literature maps, empirical workflows, and methodological notes related to my research interests.
 ---
 
 > *"A working collection of scholars, literature maps, empirical workflows, and methodological notes related to my evolving research interests."*
