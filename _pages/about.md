@@ -27,7 +27,7 @@ latest_posts:
 
 I am a **Ph.D. in Economics** and currently a Research Assistant at the **Beijing Institute of Mathematical Sciences and Applications (BIMSA)**. I am preparing for my next academic step—pursuing a second Ph.D. to deepen my research in gender and labor.
 
-My research lies at the intersection of **Gender and Labor Economics**, **Economics of Science**, and **Development Economics**. Grounded in empirical intuition sharpened through extensive [Field Research](/fieldwork/) across rural China, I examine how institutional frictions and informal social norms distort the allocation of human capital and its value returns.
+My research lies at the intersection of **Gender and Labor Economics**, **Economics of Science**, and **Development Economics**. Grounded in empirical intuition sharpened through extensive [Field Research](/fieldwork/) across rural China, I examine how institutional frictions and social norms shape the allocation of human capital and the returns to it.
 
 To dive deeper into my overarching research questions and theoretical framework, please visit my [Research Interests](/research/). You can also review my [CV](/cv/), view my selected [Publications](/publications/), explore my [Research Notes](/research_notes/), or get a glimpse into my [Life](/life/).
 
