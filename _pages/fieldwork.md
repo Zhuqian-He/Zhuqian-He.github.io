@@ -6,7 +6,7 @@ nav: true
 nav_order: 4
 ---
 
-> *"Fieldwork across rural China sharpens my empirical intuition. Direct engagement with households and local officials helps me identify missing market participation, trace talent misallocation, and unpack the informal social norms that govern economic behavior."*
+> *"Fieldwork across rural China sharpens my empirical intuition about how institutions and social norms shape participation, talent allocation, and economic behavior."*
 
 ---
 
