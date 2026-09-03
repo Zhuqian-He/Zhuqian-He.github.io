@@ -43,7 +43,7 @@ How do social norms and gender expectations interact with economic incentives to
   * **Robustness Across Specifications (Figure 5):** The estimated gender difference remains negative and statistically significant across specifications ranging from bivariate OLS to models incorporating paper-level controls, author career trajectories, year and field fixed effects, and paper fixed effects.
 
 <details>
-<summary><strong>📊 Click to view Preliminary Empirical Results</strong></summary>
+<summary><strong>📊 View Preliminary Empirical Results</strong></summary>
 
 <br>
 
