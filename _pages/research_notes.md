@@ -151,7 +151,7 @@ A curated directory of researchers and research groups working on gender, labor 
 <br>
 
 **Alessandra Voena** — *Stanford University*  
-**Research areas:** *Not yet added — the collected source does not contain a self-description of her research fields.*  
+**Research areas:** *Economics of the family and the economics of science and innovations.*  
 [Website →](https://avoena.people.stanford.edu/)
 
 <br>
