@@ -26,10 +26,10 @@ nav_order: 6
 
 > *"Fieldwork broadens the empirical scope; travel expands the human horizon."*
 
-I love exploring different cultures, landscapes, and social contexts. To date, my journey spans **4 countries** and **24+ provinces/regions** across China.
+I love exploring different cultures, landscapes, and social contexts. To date, my journey spans **4 countries** and **25+ provinces/regions** across China.
 
 * **🌏 International:** Japan, Malaysia, South Korea, Thailand
-* **🇨🇳 Domestic Footprints:** Beijing, Chongqing, Fujian, Guangdong, Guangxi, Guizhou, Hainan, Hebei, Heilongjiang, Hong Kong SAR, Hubei, Hunan, Inner Mongolia, Jiangxi, Jilin, Macao SAR, Qinghai, Shaanxi, Shandong, Shanghai, Tianjin, Xinjiang, Yunnan, Zhejiang
+* **🇨🇳 Domestic Footprints:** Beijing, Chongqing, Fujian, Guangdong, Guangxi, Guizhou, Hainan, Hebei, Heilongjiang, Hong Kong SAR, Hubei, Hunan, Inner Mongolia, Jiangxi, Jilin, Macao SAR, Qinghai, Shaanxi, Shandong, Shanghai, Sichuan, Tianjin, Xinjiang, Yunnan, Zhejiang
 
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
@@ -89,6 +89,7 @@ I love exploring different cultures, landscapes, and social contexts. To date, m
       { name: "Heilongjiang (黑龙江)", coords: [45.8038, 126.5350] },
       { name: "Jilin (吉林)", coords: [43.8171, 125.3235] },
       { name: "Hebei (河北)", coords: [38.0428, 114.5149] },
+      { name: "Sichuan (四川)", coords: [30.6586, 104.0648] },
       { name: "Shaanxi (陕西)", coords: [34.3416, 108.9398] },
       { name: "Shandong (山东)", coords: [36.6512, 117.1201] },
       { name: "Yunnan (云南)", coords: [25.0406, 102.7123] },
