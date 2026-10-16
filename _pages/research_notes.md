@@ -19,7 +19,33 @@ A curated directory of researchers and research groups working on gender, labor 
 
 <br>
 
+### A
+
+**Shan Aman-Rana** — *University of Virginia*  
+**Research focus:** Political economy, organizational economics, and gender/diversity. Her work investigates bureaucratic capacity, informal authority and networks, and how discriminatory norms and organizational designs affect opportunities for women.  
+[Website →](https://www.shanamanrana.com/)
+
+<br>
+
+**Siwan Anderson** — *University of British Columbia*  
+**Research areas:** Development economics, gender economics, and family economics. Her research examines female empowerment, intra-household bargaining, marriage institutions, and women's missing survival/health outcomes in developing economies.  
+[Website →](https://sites.google.com/view/siwan-anderson/home?authuser=)
+
+<br>
+
 ### B
+
+**Marianne Bertrand** — *University of Chicago Booth School of Business*  
+**Research areas:** Applied microeconomics, labor economics, corporate finance, and development economics. Her research covers racial and gender discrimination, affirmative action, CEO pay dynamics, and social norms around female breadwinners.  
+[Website →](https://www.chicagobooth.edu/faculty/directory/b/marianne-bertrand)
+
+<br>
+
+**Francine D. Blau** — *Cornell University*  
+**Research areas:** Labor economics and gender issues. Her foundational work examines the gender pay gap, wage inequality, female labor supply, immigration, and international comparisons of labor market outcomes.  
+[Website →](https://www.ilr.cornell.edu/people/francine-d-blau)
+
+<br>
 
 **Leonardo Bursztyn** — *University of Chicago*  
 **Research focus:** His research seeks to better understand how individuals' main economic decisions are shaped by their social environments. His work has examined educational, labor market, financial, consumption, and political decisions, both in developing and developed countries.  
@@ -32,6 +58,14 @@ A curated directory of researchers and research groups working on gender, labor 
 **Alexander W. Cappelen** — *Norwegian School of Economics (NHH)*  
 **Research interests:** Behavioral, experimental and public economics, business ethics, social choice theory, political philosophy and distributive justice.  
 [Website →](https://sites.google.com/view/alexander-w-cappelen)
+
+<br>
+
+### E
+
+**Catherine Eckel** — *Texas A&M University*  
+**Research areas:** Behavioral and experimental economics. Her work focuses on gender differences in risk-taking, cooperation, charitable giving, and trust, as well as discrimination and undergraduate academic success.  
+[Website →](https://sites.google.com/site/eckelcatherine/)
 
 <br>
 
@@ -66,6 +100,18 @@ A curated directory of researchers and research groups working on gender, labor 
 <br>
 
 ### K
+
+**Lawrence F. Katz** — *Harvard University*  
+**Research areas:** Labor economics and the economics of social problems. His research examines wage and earnings inequality, educational advancement, labor market impacts of technological change, the career and family choices of college graduates, and the social consequences of the birth control pill.  
+[Website →](https://www.economics.harvard.edu/people/lawrence-katz)
+
+<br>
+
+**Sari Kerr** — *Wellesley Centers for Women*  
+**Research interests:** Applied microeconomics, labor economics, entrepreneurship, immigration, and the intersection of family constraints and career trajectories in firms.  
+[Website →](https://www.wellesley.edu/people/sari-kerr)
+
+<br>
 
 **Marlene Koffi** — *University of Toronto*  
 **Research interests:** Economics of Innovation and Science. She is also interested in applying deep learning and Artificial Intelligence techniques for Economics studies and public policies.  
@@ -102,12 +148,24 @@ A curated directory of researchers and research groups working on gender, labor 
 
 <br>
 
+**Joshua Mitchell** — *Welch Consulting*  
+**Research focus:** Labor economics and applied microeconomics. His work utilizes large administrative datasets to analyze earnings inequality, job polarization, survey measurement quality, and economic progress by age and gender.  
+[Website →](https://inequality.hks.harvard.edu/people/joshua-mitchell)
+
+<br>
+
 ### N
 
 **L. Rachel Ngai** — *London School of Economics*  
 **Research areas:** Economic growth, labour and housing market.  
 **Research topics:** Structural Transformation and Gender; Home Production and Time Use; Housing Market; Policy and Sectoral Allocation; Multisector Growth Model.  
 [Website →](https://sites.google.com/view/rachelngai)
+
+<br>
+
+**Emily Nix** — *USC Marshall School of Business*  
+**Research areas:** Labor economics, family economics, and law and economics. Her research studies human capital investments, the economic costs of sexual violence, fertility dynamics, and gender disparities in labor markets.  
+[Website →](https://sites.google.com/site/emilyenix)
 
 <br>
 
@@ -134,7 +192,53 @@ A curated directory of researchers and research groups working on gender, labor 
 
 <br>
 
+**Solomon W. Polachek** — *Binghamton University*  
+**Research areas:** Labor economics and human capital. A pioneer in developing life-cycle human capital models to explain gender wage differentials, occupational segregation, and geographic labor mobility.  
+[Website →](https://www.iza.org/person/186/solomon-polachek)
+
+<br>
+
+### R
+
+**Elyce J. Rotella** — *Indiana University Bloomington*  
+**Research areas:** Economic history, labor and demographic economics. Her work examines the historical growth of female labor force participation, occupational gender segregation (clerical work), household savings behavior, and women in the U.S. economy.  
+[Website →](https://economics.indiana.edu/about/emeriti/rotella-elyce.html)
+
+<br>
+
+**Alexandra Roulet** — *INSEAD*  
+**Research focus:** Labor economics. Her research investigates job search frictions, unemployment insurance dynamics, worker mobility, health outcomes of job loss, and workplace inequality.  
+[Website →](https://www.insead.edu/faculty-personal-site/alexandra-roulet)
+
+<br>
+
+**Cecilia Elena Rouse** — *Brookings Institution / Princeton University*  
+**Research areas:** Labor economics and the economics of education. Her research focuses on higher education policy, educational interventions, affirmative action, and blind audition mechanisms in orchestral hiring.  
+[Website →](https://www.brookings.edu/people/cecilia-rouse/)
+
+<br>
+
+**Sandra V. Rozo** — *World Bank*  
+**Research areas:** Development economics, forced displacement, and gender. Her work studies how displacement, technology, crime, and fertility decline affect vulnerable populations and hosting communities.  
+[Website →](https://sandrarozo.net/)
+
+<br>
+
+### S
+
+**Danila Serra** — *Texas A&M University*  
+**Research areas:** Applied behavioral and experimental economics. Her research investigates questions in development, education, labor, and gender economics, including social norms, corruption, and role-model interventions to promote women in economics and STEM.  
+[Website →](https://people.tamu.edu/~dserra/)
+
+<br>
+
 ### T
+
+**Petra Todd** — *University of Pennsylvania*  
+**Research areas:** Labor economics, social program evaluation, and microeconometrics. Her work explores personality traits in gender labor market disparities, educational interventions, and testing for discrimination.  
+[Website →](https://economics.sas.upenn.edu/people/petra-todd)
+
+<br>
 
 **Bertil Tungodden** — *Norwegian School of Economics (NHH)*  
 **Research areas:** Behavioral and experimental economics, development economics, distributive justice, and social choice theory.  
@@ -151,7 +255,7 @@ A curated directory of researchers and research groups working on gender, labor 
 <br>
 
 **Alessandra Voena** — *Stanford University*  
-**Research areas:** *Economics of the family and the economics of science and innovations.*  
+**Research areas:** Economics of the family and the economics of science and innovations.  
 [Website →](https://avoena.people.stanford.edu/)
 
 <br>
@@ -172,7 +276,7 @@ A curated directory of researchers and research groups working on gender, labor 
 
 A developing map of the literature organized around several questions that currently shape my reading:
 
-* **Labor Supply & Career Persistence:** Labor-force participation, caregiving, motherhood penalties, career interruptions, and re-entry.
+* **Labor Supply & Career Outcomes:** Labor-force participation, caregiving, motherhood penalties, career interruptions, and re-entry.
 * **Allocation & Recognition:** Occupational sorting, task assignment, credit allocation, promotion, recognition, and returns to talent.
 * **Norms & Life-Cycle Decisions:** Gender norms, household bargaining, education, migration, marriage, and fertility.
 
